@@ -1,9 +1,12 @@
 #include <iostream>
-#include <stdlib
+#include <stdlib.h>
 
 using namespace std; 
 
 int main ()
 {
-  cout << "h
+  int health = 75;
+  health -= 50;
+  cout << "health";
+
 }
